@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full Stack developer from Kamar-Taj 🧙‍♂️.</h3>
 
 <div align="center">
- <img align="center" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWNsY2Y0YmcyaHlvcmEwZjU5bXRwYmdxem1va3BhNXo1eGlmOTRiZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif">
+ <img align="center" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTNvcDlzaW1qODU2N2d4ZTF3Mzl2ZWJlMzRzOG9mNnZhOHdibDF0dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif">
 </div>
 
 

@@ -54,6 +54,7 @@
   </tr>
 </table>
 
+![Snake animation](https://github.com/Minhaj078/Minhaj078/blob/output/github-contribution-grid-snake.svg)
 
 
 

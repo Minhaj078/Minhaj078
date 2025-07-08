@@ -1,11 +1,11 @@
 <h1 align="center">Nox to the boring intros. Lumos! I'm Minhaj.👻</h1>
+<h3 align="center">A passionate full Stack developer from Kamar-Taj 🧙‍♂️.</h3>
 
 <div align="center">
  <img align="center" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWNsY2Y0YmcyaHlvcmEwZjU5bXRwYmdxem1va3BhNXo1eGlmOTRiZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif">
 </div>
 
 
-<h3 align="center">A passionate full Stack developer from Kamar-Taj 🧙‍♂️.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minhaj078&label=Profile%20views&color=0e75b6&style=flat" alt="minhaj078" /> </p>
 

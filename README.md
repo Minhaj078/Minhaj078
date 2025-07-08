@@ -1,6 +1,6 @@
 <h1 align="center">Nox to the boring intros. Lumos! I'm Minhaj👻</h1>
 <div align="center">
- <img align="center" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2FvdXpnN3RvejRmdmRocmFkNW12bHd0YTM3N2g0b2tkcHI3bWk2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif">
+ <img align="center" alt="Coding" width="400" src="https://tenor.com/view/jake-tran-coding-web-dev-laptop-lifestyle-frustrated-gif-13859017">
 </div>
 <h3 align="center">A passionate full Stack developer from Kamar-Taj 🧙‍♂️.</h3>
 

@@ -7,7 +7,7 @@
 
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=minhaj078&label=Profile%20views&color=0e75b6&style=flat" alt="minhaj078" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=minhaj078&label=Profile%20views&color=0e75b6&style=flat" alt="minhaj078" /> </p>
 
 ![R2LDivider](https://user-images.githubusercontent.com/42029519/193863609-ff995ff9-53ee-426d-8591-be35005f5b5d.svg)
 

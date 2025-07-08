@@ -1,7 +1,6 @@
 <h1 align="center">Nox to the boring intros. Lumos! I'm Minhaj👻</h1>
-<div align="center">
- <img align="center" alt="Coding" width="400" src="https://tenor.com/view/jake-tran-coding-web-dev-laptop-lifestyle-frustrated-gif-13859017">
-</div>
+<div class="tenor-gif-embed" data-postid="13859017" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/jake-tran-coding-web-dev-laptop-lifestyle-frustrated-gif-13859017">Jake Tran Coding GIF</a>from <a href="https://tenor.com/search/jake+tran-gifs">Jake Tran GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 <h3 align="center">A passionate full Stack developer from Kamar-Taj 🧙‍♂️.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minhaj078&label=Profile%20views&color=0e75b6&style=flat" alt="minhaj078" /> </p>

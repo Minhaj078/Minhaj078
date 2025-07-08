@@ -1,5 +1,8 @@
 <h1 align="center">Nox to the boring intros. Lumos! I'm Minhaj👻</h1>
-<div class="tenor-gif-embed" data-postid="13859017" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/jake-tran-coding-web-dev-laptop-lifestyle-frustrated-gif-13859017"></a></div>
+<div align="center">
+ <img align="center" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTNvcDlzaW1qODU2N2d4ZTF3Mzl2ZWJlMzRzOG9mNnZhOHdibDF0dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif">
+</div>
+
 
 <h3 align="center">A passionate full Stack developer from Kamar-Taj 🧙‍♂️.</h3>
 

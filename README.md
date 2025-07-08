@@ -63,3 +63,8 @@
 [![](https://visitcount.itsvg.in/api?id=Minhaj078&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/42029519/193472827-923d610d-6fd2-42a4-a712-29cb11a191ca.svg" alt="See you soon goodbye banner" />
+</p>
+

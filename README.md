@@ -46,10 +46,11 @@
       <img src="https://nirzak-streak-stats.vercel.app/?user=Minhaj078&theme=dark&hide_border=false" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minhaj078&theme=dark&hide_border=false&include_all_commits=false&layout=compact" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minhaj078&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="400px" />
     </td>
   </tr>
 </table>
+
 
 
 

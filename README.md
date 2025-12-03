@@ -6,15 +6,11 @@
 </div>
 
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minhaj078&label=Profile%20views&color=0e75b6&style=flat" alt="minhaj078" /> </p>
 
-![R2LDivider](https://user-images.githubusercontent.com/42029519/193863609-ff995ff9-53ee-426d-8591-be35005f5b5d.svg)
 
 [![An image of @minhaj078's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/minhaj078)](https://holopin.io/@minhaj078)
 
-
-<p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱I’m currently dirtying my hands on **Full Stack Development**
 

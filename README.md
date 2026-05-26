@@ -16,7 +16,7 @@
 
 - 🤝I’m looking for help with starting with **blockchain development and solidit**
 
-- 👨‍💻 All of my projects are available at [https://rizzportfolio.netlify.app/](https://rizzportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://ahmadportfolio3.netlify.app/](https://ahmadportfolio3.netlify.app/)
 
 - 💬 Ask me about **Data Structures & Algorithm**
 
